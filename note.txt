@@ -1,0 +1,2 @@
+git remote add origin https://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@github.com/xvbnm48/learn-go-microservice.git
+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
